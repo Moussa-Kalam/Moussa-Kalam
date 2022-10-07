@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me [m.amzat@alustudent.com]
+- 📫 How to reach me [Email](m.amzat@alustudent.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
 
 <!---
 Moussa-Kalam/Moussa-Kalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
