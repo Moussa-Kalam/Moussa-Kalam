@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moussa-Kalam
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning NodeJS, TypeScript, Express and Angular.
+- 🌱 I’m currently learning NodeJS, TypeScript, Express, PostgreSQL and Angular.
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me [Email](m.amzat@alustudent.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
 
