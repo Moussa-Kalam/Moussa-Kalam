@@ -9,3 +9,5 @@ Moussa-Kalam/Moussa-Kalam is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 [![wakatime](https://wakatime.com/badge/user/e5208d97-208d-48ec-bf29-71178c12684a.svg)](https://wakatime.com/@e5208d97-208d-48ec-bf29-71178c12684a)
+https://www.codewars.com/users/moussa-kalam-amzat/badges/large
+
