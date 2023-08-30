@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 ![codewars](https://www.codewars.com/users/moussa-kalam-amzat/badges/small)
 
+[![](https://visitcount.itsvg.in/api?id=Moussa-Kalam&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
