@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Moussa-Kalam
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning NodeJS, TypeScript, Express, PostgreSQL, and React 18.
+- 🌱 I’m currently learning TypeScript, TailwindCSS, React 18, and DSA.
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me [Email](m.amzat@alustudent.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
+- 📫 How to reach me [Email](moussakalamamzat@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
 
 <!---
 Moussa-Kalam/Moussa-Kalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
