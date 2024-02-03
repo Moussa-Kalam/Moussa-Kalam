@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moussa-Kalam
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning TypeScript, TailwindCSS, React 18, and DSA.
+- 🌱 I’m currently learning Nest.js, Next.js, Unit Testing, Python, and DSA.
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me [Email](moussakalamamzat@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
 
