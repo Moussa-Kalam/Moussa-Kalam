@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moussa-Kalam
 - 👀 I’m interested in Full Stack Development and Cloud Computing.
-- 🌱 I’m currently learning Next.js, Linux, and Testing.
+- 🌱 I’m currently learning Advanced TypeScript, React Native, and AWS services.
 - 💞️ I’m looking to collaborate on projects that improve human lives.
 - 📫 How to reach me [Email](moussakalamamzat@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
 
