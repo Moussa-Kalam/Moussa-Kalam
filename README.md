@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced TypeScript, React Native, and AWS services.
 - 💞️ I’m looking to collaborate on projects that improve human lives.
 - 📫 How to reach me [Email](moussakalamamzat@gmail.com) or [LinkedIn](https://www.linkedin.com/in/moussakalamamzat)
-- "Add value and get rewarded"
+- <b>Add value and get rewarded</b>
 
 <!---
 Moussa-Kalam/Moussa-Kalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
