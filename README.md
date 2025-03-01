@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Moussa-Kalam<br>👀 I’m interested in Full Stack Development and Cloud Computing.<br>🌱 I’m currently learning Advanced TypeScript, React Native, and AWS services.<br>💞️ I’m looking to collaborate on projects that improve human lives.<br><br>
+👋 Hi, I’m @Moussa-Kalam<br>👀 I’m interested in Full Stack Development and Cloud Computing.<br>🌱 I’m currently learning Cloud Computing with Microsoft Azure.<br>💞️ I’m looking to collaborate on projects that improve human lives.<br><br>
 
 ## Add value and get rewarded!
 
