@@ -20,14 +20,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Moussa-Kalam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Moussa-Kalam&icon=9&color=0)](https://visitcount.itsvg.in)
 
+---
 [![wakatime](https://wakatime.com/badge/user/e5208d97-208d-48ec-bf29-71178c12684a.svg)](https://wakatime.com/@e5208d97-208d-48ec-bf29-71178c12684a)
 
+---
 ![codewars](https://www.codewars.com/users/moussa-kalam-amzat/badges/small)
 
 
